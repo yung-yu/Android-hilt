@@ -3,7 +3,7 @@
 
 #實作結果包含測試
 
-* [Hilt and Dagger annotations cheat sheet]{https://developer.android.com/training/dependency-injection/hilt-cheatsheet}
+* [Hilt and Dagger annotations cheat sheet](https://developer.android.com/training/dependency-injection/hilt-cheatsheet)
 
 # License
 
